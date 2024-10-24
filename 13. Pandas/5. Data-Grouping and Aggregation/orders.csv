@@ -1,0 +1,7 @@
+order_id,product_name,category,city,sales,profit
+CA-2020-152156,p1,Furniture,Bangalore,10000,500
+CA-2020-138688,p2,Furniture,Bangalore,20000,400
+US-2019-108966,p3,Technology,Chennai,25000,200
+CA-2021-114412,p4,Office Supplies,Chennai,30000,250
+CA-2020-161389,p5,Technology,Bangalore,35000,800
+US-2019-119883,p6,Office Supplies,Bangalore,40000,700
